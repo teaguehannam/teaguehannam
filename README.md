@@ -1,18 +1,18 @@
 
 
 <table>
-  <tr>
-    <td></td>
-    <td></td>
+  <tr align=center>
+    <td>👋🏿</td>
+    <td>👋🏾</td>
     <td>👋</td>
+    <td>👋🏼</td>
+    <td>👋🏻</td>
     <td></td>
-    <td></td>
-    <td> </td>
-    <td></td>
-    <td></td>
+    <td>🌕</td>
+    <td>🌏</td>
     <td>🌍</td>
-    <td></td>
-    <td></td>
+    <td>🌎</td>
+    <td>🌑</td>
   <tr>
   <tr align=center>
     <td>H</td>
@@ -20,7 +20,7 @@
     <td >l</td>
     <td>l</td>
     <td>o</td>
-    <td> </td>
+    <td>☀️</td>
     <td>w</td>
     <td>o</td>
     <td>r</td>
