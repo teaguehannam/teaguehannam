@@ -29,9 +29,12 @@
   <tr>
 </table>
 
-<a href="https://teaguehannam.com">View website</a>  <br />
-<a href="https://teaguehannam.com">Ver proyectos</a> <br />
-<a href="https://teaguehannam.com">私のウェブサイト</a> <br />
-<a href="https://teaguehannam.com">我的网站</a>        <br />
-<a href="https://teaguehannam.com">나의 웹 사이트</a>   <br />
-<a href="https://teaguehannam.com">Портфолио</a>      <br />
+<table>
+  <tr><td><a href="https://teaguehannam.com">View website</a></td></tr>
+  <tr><td><a href="https://teaguehannam.com">Proyectos</a></td></tr>
+  <tr><td><a href="https://teaguehannam.com">私のウェブサイト</a></td></tr>
+  <tr><td><a href="https://teaguehannam.com">我的网站</a></td></tr>
+  <tr><td><a href="https://teaguehannam.com">나의 웹 사이트</a></td></tr>
+  <tr><td><a href="https://teaguehannam.com">Портфолио</a></td></tr>
+</table>
+ 
