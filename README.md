@@ -1,19 +1,6 @@
 
-
 <table>
-  <tr align=center>
-    <td>👋🏿</td>
-    <td>👋🏾</td>
-    <td>👋</td>
-    <td>👋🏼</td>
-    <td>👋🏻</td>
-    <td></td>
-    <td>🌕</td>
-    <td>🌏</td>
-    <td>🌍</td>
-    <td>🌎</td>
-    <td>🌑</td>
-  <tr>
+
   <tr align=center>
     <td>H</td>
     <td>e</td>
