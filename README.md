@@ -1,4 +1,4 @@
-Hello World!
+Hello World
 <table>
   <tr>
     <td><a href="https://teaguehannam.com">My Website</a></td>
