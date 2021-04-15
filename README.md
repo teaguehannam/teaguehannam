@@ -3,3 +3,5 @@
     <td><a href="https://portfolio.teaguehannam.com">Portfolio</a></td>
   </tr>
 </table>
+<p>My recent work is either in private repos or on GitLab,</p>
+<p>my GitHub contributions are not accurate toward how I program.</p> 
