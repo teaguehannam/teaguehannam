@@ -4,4 +4,4 @@
   </tr>
 </table>
 <p>My recent work is either in private repos or on GitLab,</p>
-<p>my GitHub contributions are not accurate toward how I program.</p> 
+<p>GitHub contributions are not accurate toward how I program.</p> 
