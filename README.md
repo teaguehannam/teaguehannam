@@ -1,4 +1,3 @@
-<p>Recent work isn't on this github.</p>
 <table>
   <tr>
     <td><a href="https://portfolio.teaguehannam.com">Portfolio</a></td>
