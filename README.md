@@ -1,7 +1,6 @@
 <table>
   <tr>
-    <th><a href="https://teaguehannam.com">Developer site</a></th>
-    <th><a href="https://teaguehannam.com">Other site</a></th>
+    <th><a href="https://teaguehannam.com">Main site</a></th>
     <th><a href="https://teaguehannam.info/home">Nutrients</a></th>
   </tr>
   <tr>
