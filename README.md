@@ -1,4 +1,3 @@
-<h1></h1>
 <h4>Main Site</h4>
 <table>
   <tr>
